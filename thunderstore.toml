@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-DisableSeleneBeforeBoon"
+name = "DisableSeleneBeforeBoon"
 versionNumber = "1.0.0"
 description = "Prevents Selene from spawning before the first boon is obtained."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-DisableSeleneBeforeBoon"
