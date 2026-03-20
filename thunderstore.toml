@@ -7,7 +7,7 @@ namespace = "adamant"
 name = "DisableSeleneBeforeBoon"
 versionNumber = "1.0.0"
 description = "Prevents Selene from spawning before the first boon is obtained."
-websiteUrl = "https://github.com/maybe-adamant/h2-modpack-DisableSeleneBeforeBoon"
+websiteUrl = "https://github.com/h2-modpack/h2-modpack-DisableSeleneBeforeBoon"
 containsNsfwContent = false
 
 [package.dependencies]
