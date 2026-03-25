@@ -53,7 +53,7 @@ public.definition = {
     tooltip  = "Prevents Selene from spawning before the first boon is obtained.",
     default  = false,
     dataMutation = true,
-    modpackModule = true,
+    modpack = "h2-modpack",
 }
 
 -- =============================================================================
